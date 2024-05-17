@@ -1,10 +1,5 @@
 # Idrinth API Bench
 
-[![Coverage Status](https://coveralls.io/repos/github/Idrinth/api-bench/badge.svg?branch=the-one)](https://coveralls.io/github/Idrinth/api-bench?branch=the-one)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Idrinth_api-bench&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Idrinth_api-bench)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3171affc728048da8df4fe36b6d4771e)](https://app.codacy.com/gh/Idrinth/api-bench/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![Code Factor](https://www.codefactor.io/repository/github/idrinth/api-bench/badge/the-one)](https://www.codefactor.io/repository/github/idrinth/api-bench/overview/the-one)
-
 | Tool |Version|
 |-|-|
 |Framework|[![npm version](https://badge.fury.io/js/@idrinth%2Fapi-bench.svg)](https://badge.fury.io/js/@idrinth%2Fapi-bench)|
@@ -15,38 +10,38 @@ documentation website and other related tooling.
 
 ## Project parts
 
-### [Framework](/framework/README.md)
+### [Framework](https://github.com/idrinth-api-bench/framework)
 
 The framework is the core of the project. It is built without a framework
 in Typescript and runs on Node.js.
 
-### [CLI](/cli/README.md)
+### [CLI](https://github.com/idrinth-api-bench/cli)
 
 This command line tool is free of frameworks and runs on Node.js. It
 serves as a tool to generate code for use with the framework.
 
-### [Desktop](/desktop/README.md)
+### [Desktop](https://github.com/idrinth-api-bench/desktop)
 
 This vue and electron tool wraps the framework to provide a nicer,
 easier to use UI for framework execution.
 
-### [Documentation Website](/documentation-website/README.md)
+### [Documentation Website](https://github.com/idrinth-api-bench/documentation-website)
 
 The documentation website is a React application written in Typescript.
 It serves as the central web presence and documentation for all
 involved projects.
 
-### [Examples](/examples)
+### [Examples](https://github.com/idrinth-api-bench/examples)
 
 These are examples based on @idrinth/api-bench (the framework). Try
 them out to see how it works and what the framework provides.
 
-### [History Microservice](/history-microservice/README.md)
+### [History Microservice](https://github.com/idrinth-api-bench/history-microservice)
 
 The history microservice is a Fastify application, that serves as
 the central point of access to historical benchmark run data.
 
-### [History Website](/history-website/README.md)
+### [History Website](https://github.com/idrinth-api-bench/history-website)
 
 The history website is a svelte application, that serves as
 the central point of access to historical benchmark run data.
