@@ -5,7 +5,7 @@
 |Framework|[![npm version](https://badge.fury.io/js/@idrinth%2Fapi-bench.svg)](https://badge.fury.io/js/@idrinth%2Fapi-bench)|
 |CLI|[![npm version](https://badge.fury.io/js/@idrinth%2Fapi-bench-cli.svg)](https://badge.fury.io/js/@idrinth%2Fapi-bench)|
 
-This is the repository for the API test framework, its CLI, it's
+This is the repository for the API test framework, it's CLI, it's
 documentation website and other related tooling.
 
 ## Project parts
@@ -46,15 +46,58 @@ the central point of access to historical benchmark run data.
 The history website is a svelte application, that serves as
 the central point of access to historical benchmark run data.
 
-### [Dockerfiles](/containers)
+### [Containers](https://github.com/idrinth-api-bench/containers)
 
-The dockerfiles provide runners/actions for continuous integration as well
-as the history website and microservice.
+These are the docker containers for ci and history visualisation.
 
-### [Mindmap](/mindmap/README.md)
+### [Mindmap](https://github.com/idrinth-api-bench/mindmap)
 
 The brainstorming solution we use. It is based around markmap, a markdown to
 mindmap generator but consists of a lot of custom logic.
+
+### [Rollup Plugin React Modular CSS](https://github.com/idrinth-api-bench/rollup-plugin-react-modular-css)
+
+This plugin extracts modular css files instead of creating a big one.
+
+### [Chartjs Plugin Stdev Filler](https://github.com/idrinth-api-bench/chartjs-plugin-stdev-filler)
+
+A small plugin to provide sensible standard deviation displays.
+
+### [Website Builder](https://github.com/idrinth-api-bench/website-builder)
+
+This repository is our website deploy and update tool to minimize github api queries.
+
+### [Issues](https://github.com/idrinth-api-bench/issues)
+
+This is the issue repository for a typescript framework meant to performance test anything even remotely rest-like and related tools.
+
+### [Eslint Config](https://github.com/idrinth-api-bench/eslint-config)
+
+The organisation's code standards.  
+
+### [Typescript Language from Yaml](https://github.com/idrinth-api-bench/typescript-language-from-yaml)
+
+A typescript solution for translations.
+
+### [Assets](https://github.com/idrinth-api-bench/assets)
+
+These are shared assets between multiple repositories.
+
+### [Project Defaults](https://github.com/idrinth-api-bench/project-defaults)
+
+These are the defaults of our projects, so make sure to use this for creating new repositories or updating existing ones.
+
+### [Survey](https://github.com/idrinth-api-bench/survey)
+
+A survey builder that focusses on being the least annoying to the surveyed as possible.
+
+### [Duplicate Style Check](https://github.com/idrinth-api-bench/duplicate-style-check)
+
+This small library checks media queries for duplicate style definitions.
+
+### [React File Based Routes](https://github.com/idrinth-api-bench/react-file-based-routes)
+
+File based routing with default react routers.
 
 ## Documentation
 
@@ -88,12 +131,10 @@ commands in order:
 - `npm run setup`
 
 Further information about contributing is available in the contribution
-guidelines [on the website](https://idrinth-api-ben.ch/contributing/) and
-[in the markdown file](/CONTRIBUTING.md).
-
+guidelines [on the website](https://idrinth-api-ben.ch/contributing/).
 ## Socials
 
-Please follow my socials to be updated on the project:
+Please follow my socials to stay updated on the project:
 
 [![idrinth Profile URL](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~idrinth)
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/9588634/)
@@ -106,8 +147,8 @@ Commercial support and training is provided via
 
 ## Privacy and Compliance
 
-The `@idrinth/api-bench` framework and its CLI do not collect any kind of
-information about its users or the APIs being tested. All data is local to
+The `@idrinth/api-bench` framework and it's CLI do not collect any kind of
+information about it's users or the API's being tested. All data is local to
 the device you run it on or the database server you configure it to dump data
 in.
 
