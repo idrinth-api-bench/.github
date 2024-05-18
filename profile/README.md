@@ -1,10 +1,5 @@
 # Idrinth API Bench
 
-| Tool |Version|
-|-|-|
-|Framework|[![npm version](https://badge.fury.io/js/@idrinth%2Fapi-bench.svg)](https://badge.fury.io/js/@idrinth%2Fapi-bench)|
-|CLI|[![npm version](https://badge.fury.io/js/@idrinth%2Fapi-bench-cli.svg)](https://badge.fury.io/js/@idrinth%2Fapi-bench)|
-
 This is the repository for the API test framework, it's CLI, it's
 documentation website and other related tooling.
 
@@ -69,7 +64,8 @@ This repository is our website deploy and update tool to minimize github api que
 
 ### [Issues](https://github.com/idrinth-api-bench/issues)
 
-This is the issue repository for a typescript framework meant to performance test anything even remotely rest-like and related tools.
+This is the issue repository for a typescript framework meant to performance test anything even
+remotely rest-like and related tools.
 
 ### [Eslint Config](https://github.com/idrinth-api-bench/eslint-config)
 
@@ -85,7 +81,8 @@ These are shared assets between multiple repositories.
 
 ### [Project Defaults](https://github.com/idrinth-api-bench/project-defaults)
 
-These are the defaults of our projects, so make sure to use this for creating new repositories or updating existing ones.
+These are the defaults of our projects, so make sure to use this for creating new repositories
+or updating existing ones.
 
 ### [Survey](https://github.com/idrinth-api-bench/survey)
 
@@ -136,7 +133,6 @@ guidelines [on the website](https://idrinth-api-ben.ch/contributing/).
 
 Please follow my socials to stay updated on the project:
 
-[![idrinth Profile URL](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~idrinth)
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/9588634/)
 [![Slack URL](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://idrinth-api-bench.slack.com/join/shared_invite/zt-2f4zmw2sz-c3etHzCFq3LtZpkR15xXMA#/shared-invite/email)
 
@@ -147,11 +143,12 @@ Commercial support and training is provided via
 
 ## Privacy and Compliance
 
-The `@idrinth/api-bench` framework and it's CLI do not collect any kind of
+The `@idrinth-api-bench` framework and it's CLI do not collect any kind of
 information about it's users or the API's being tested. All data is local to
 the device you run it on or the database server you configure it to dump data
 in.
 
 ## Feedback
 
-If you have [Feedback](https://tally.so/r/3NA48l) you don't want to put into a discussion or issue, feel free to use the link.
+If you have [Feedback](https://tally.so/r/3NA48l) you don't want to put into
+a discussion or issue, feel free to use the link.
