@@ -3,6 +3,43 @@
 This is the repository for the API test framework, it's CLI, it's
 documentation website and other related tooling.
 
+## People
+
+This is the core team, we are doing out best to help you gain the most from
+using the tools we provide.
+
+### Reviewers
+
+Reviewers are the final decision makers for merging. They are Core-Developers
+and additionally handle the reviews. Be patient with them, since they do it in
+their free time.
+
+| Name | Image | Introduction |
+| ---- | ---- | --- |
+| [Marika](https://github.com/marikadeveloper) | ![Marika](https://avatars.githubusercontent.com/u/116084393?s=120) | Italian frontend developer with 5+ years of work experience and a passion for coding since 2014. Currently pursuing a Computer Science Bachelor's while contributing to open source and exploring singing in free time. |
+| [Björn](https://github.com/Idrinth) | ![Björn](https://avatars.githubusercontent.com/u/7874631?s=120) | A webdeveloper with 14 years of work experience, always exited to learn more and help others learn. |
+
+### Quality Assurance
+
+The quality assurance focusses on improving the quality of out automated testing.
+They are also part of the Core-Developers and don't get payed for their help either.
+
+| Name | Image | Introduction |
+| ---- | ---- | ---- |
+| [Jay](https://github.com/jauntyjocularjay) | ![Jay](https://avatars.githubusercontent.com/u/77408854?s=120) | American hobbyist developer working in Quality Assurance since 2020. Always looking for problems to tackle and new skills to acquire. |
+| [Angelina](https://github.com/aceppaluni) | ![Angelina](https://avatars.githubusercontent.com/u/113948612?s=120) | I am a core developer with over a year of experience working on self-made projects and contributing to open-source projects enhancing my skills. |
+
+### Core-Developers
+
+The core developers are regular contributors, adding to issues and code where
+required. They may take up related tasks from time to time, since their work is
+the backbone of this organisation.
+
+| Name | Image | Introduction |
+| ---- | ---- | ---- |
+| [Akhil](https://github.com/akhil0203) | ![Akhil](https://avatars.githubusercontent.com/u/101108396?s=120) | I'm a master's student with experience in web development gained through open source contributions and research projects, and I believe in learning through hands-on experiences and sharing knowledge. |
+| [Hussain Ali](https://github.com/hussainnaqvee) | ![Hussain Ali](https://avatars.githubusercontent.com/u/56768095?s=120) | I am a software engineer with 2 years of experience, contributing to open-source projects to learn and experience new technologies. |
+
 ## Project parts
 
 ### [Framework](https://github.com/idrinth-api-bench/framework)
@@ -118,20 +155,9 @@ We provide a monitoring solution out of the box.
 - [Microservice](https://hub.docker.com/r/idrinth/api-bench-history-microservice)
 - [Website](https://hub.docker.com/r/idrinth/api-bench-history-website)
 
-## Setup
-
-To get your project ready for development you need to run the following
-commands in order:
-
-- `git clone https://github.com/idrinth/api-bench`
-- `cd api-bench`
-- `npm run setup`
-
-Further information about contributing is available in the contribution
-guidelines [on the website](https://idrinth-api-ben.ch/contributing/).
 ## Socials
 
-Please follow my socials to stay updated on the project:
+Please follow our socials to stay updated on the project:
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/9588634/)
 [![Slack URL](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://idrinth-api-bench.slack.com/join/shared_invite/zt-2f4zmw2sz-c3etHzCFq3LtZpkR15xXMA#/shared-invite/email)
