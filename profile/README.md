@@ -17,7 +17,7 @@ their free time.
 | Name | Image | Introduction |
 | ---- | ---- | --- |
 | [Marika](https://github.com/marikadeveloper) | ![Marika](https://avatars.githubusercontent.com/u/116084393?s=120) | Italian frontend developer with 5+ years of work experience and a passion for coding since 2014. Currently pursuing a Computer Science Bachelor's while contributing to open source and exploring singing in free time. |
-| [Björn](https://github.com/Idrinth) | ![Björn](https://avatars.githubusercontent.com/u/7874631?s=120) | A webdeveloper with 14 years of work experience, always exited to learn more and help others learn. |
+| [Björn](https://github.com/Idrinth) | ![Björn](https://avatars.githubusercontent.com/u/7874631?s=120) | A webdeveloper since 2010, always exited to learn more and help others learn. |
 
 ### Quality Assurance
 
