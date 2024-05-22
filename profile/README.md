@@ -11,11 +11,11 @@ using the tools we provide.
 | Name | Role(s) | Image | Introduction |
 | ---- |  ---- | ---- | --- |
 | [Akhil](https://github.com/akhil0203) | Core-Developer | ![Akhil](https://avatars.githubusercontent.com/u/101108396?s=125) | I'm a master's student with experience in web development gained through open source contributions and research projects, and I believe in learning through hands-on experiences and sharing knowledge. |
-| [Angelina](https://github.com/aceppaluni) | Quality-Assurance, Core-Developer | ![Angelina](https://avatars.githubusercontent.com/u/113948612?s=125) | I am a core developer with over a year of experience working on self-made projects and contributing to open-source projects enhancing my skills. |
-| [Björn](https://github.com/Idrinth) | Reviewer, Core-Developer | ![Björn](https://avatars.githubusercontent.com/u/7874631?s=125) | As developer since 2007 and a webdeveloper since 2010, always exited to learn more and help others learn. |
+| [Angelina](https://github.com/aceppaluni) | Quality-Assurance | ![Angelina](https://avatars.githubusercontent.com/u/113948612?s=125) | I am a core developer with over a year of experience working on self-made projects and contributing to open-source projects enhancing my skills. |
+| [Björn](https://github.com/Idrinth) | Reviewer | ![Björn](https://avatars.githubusercontent.com/u/7874631?s=125) | As developer since 2007 and a webdeveloper since 2010, always exited to learn more and help others learn. |
 | [Hussain Ali](https://github.com/hussainnaqvee) | Core-Developer | ![Hussain Ali](https://avatars.githubusercontent.com/u/56768095?s=125) | I am a software engineer with 2 years of experience, contributing to open-source projects to learn and experience new technologies. |
-| [Jay](https://github.com/jauntyjocularjay) | Quality-Assurance, Core-Developer | ![Jay](https://avatars.githubusercontent.com/u/77408854?s=125) | American hobbyist developer working in Quality Assurance since 2020. Always looking for problems to tackle and new skills to acquire. |
-| [Marika](https://github.com/marikadeveloper) | Reviewer, Core-Developer| ![Marika](https://avatars.githubusercontent.com/u/116084393?s=125) | Italian frontend developer with 5+ years of work experience and a passion for coding since 2014. Currently pursuing a Computer Science Bachelor's while contributing to open source and exploring singing in free time. |
+| [Jay](https://github.com/jauntyjocularjay) | Quality-Assurance | ![Jay](https://avatars.githubusercontent.com/u/77408854?s=125) | American hobbyist developer working in Quality Assurance since 2020. Always looking for problems to tackle and new skills to acquire. |
+| [Marika](https://github.com/marikadeveloper) | Reviewer | ![Marika](https://avatars.githubusercontent.com/u/116084393?s=125) | Italian frontend developer with 5+ years of work experience and a passion for coding since 2014. Currently pursuing a Computer Science Bachelor's while contributing to open source and exploring singing in free time. |
 
 ### Reviewers
 
