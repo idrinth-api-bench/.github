@@ -1,6 +1,6 @@
 # Idrinth API Bench
 
-This is the repository for the API test framework, it's CLI, it's
+This is the organisation for the API test framework, it's CLI, it's
 documentation website and other related tooling.
 
 ## People
