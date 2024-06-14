@@ -8,15 +8,15 @@ documentation website and other related tooling.
 This is the core team, we are doing out best to help you gain the most from
 using the tools we provide.
 
-| Name | Role(s) | Image | Introduction |
-| ---- |  ---- | ---- | --- |
-| [Akhil](https://github.com/akhil0203) | Core-Developer | ![Akhil](https://avatars.githubusercontent.com/u/101108396?s=125) | I'm a master's student with experience in web development gained through open source contributions and research projects, and I believe in learning through hands-on experiences and sharing knowledge. |
-| [Angelina](https://github.com/aceppaluni) | Quality-Assurance | ![Angelina](https://avatars.githubusercontent.com/u/113948612?s=125) | I am a core developer with over a year of experience working on self-made projects and contributing to open-source projects enhancing my skills. |
-| [Björn](https://github.com/Idrinth) | Reviewer | ![Björn](https://avatars.githubusercontent.com/u/7874631?s=125) | As developer since 2007 and a webdeveloper since 2010, always exited to learn more and help others learn. |
-| [Hussain Ali](https://github.com/hussainnaqvee) | Core-Developer | ![Hussain Ali](https://avatars.githubusercontent.com/u/56768095?s=125) | I am a software engineer with 2 years of experience, contributing to open-source projects to learn and experience new technologies. |
-| [Iago](https://github.com/IagoMota) | Core-Developer | ![Iago](https://avatars.githubusercontent.com/u/64096782?s=125) | I'm a software engineer who is in love with all aspects of technology, specially low level coding :D |
-| [Jay](https://github.com/jauntyjocularjay) | Quality-Assurance | ![Jay](https://avatars.githubusercontent.com/u/77408854?s=125) | American hobbyist developer working in Quality Assurance since 2020. Always looking for problems to tackle and new skills to acquire. |
-| [Marika](https://github.com/marikadeveloper) | Reviewer | ![Marika](https://avatars.githubusercontent.com/u/116084393?s=125) | Italian frontend developer with 5+ years of work experience and a passion for coding since 2014. Currently pursuing a Computer Science Bachelor's while contributing to open source and exploring singing in free time. |
+| Name | Role(s) | Image | Introduction | GitRoll Rank |
+| ---- |  ---- | ---- | ---- | ---- |
+| [Akhil](https://github.com/akhil0203) | Core-Developer | ![Akhil](https://avatars.githubusercontent.com/u/101108396?s=125) | I'm a master's student with experience in web development gained through open source contributions and research projects, and I believe in learning through hands-on experiences and sharing knowledge. | ![Gitroll Profile Badge](https://gitroll.io/api/badges/profiles/v1/sd7WM2hkapoAbHHcd4GG5) |
+| [Angelina](https://github.com/aceppaluni) | Quality-Assurance | ![Angelina](https://avatars.githubusercontent.com/u/113948612?s=125) | I am a core developer with over a year of experience working on self-made projects and contributing to open-source projects enhancing my skills. | ![Gitroll Profile Badge](https://gitroll.io/api/badges/profiles/v1/u9TJR7hFyIsaEbv2ngILR8QxitPC2) |
+| [Björn](https://github.com/Idrinth) | Reviewer | ![Björn](https://avatars.githubusercontent.com/u/7874631?s=125) | As developer since 2007 and a webdeveloper since 2010, always exited to learn more and help others learn. | ![Gitroll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uK2A278xLqwUCjm93G27ob2EVNCB2) |
+| [Hussain Ali](https://github.com/hussainnaqvee) | Core-Developer | ![Hussain Ali](https://avatars.githubusercontent.com/u/56768095?s=125) | I am a software engineer with 2 years of experience, contributing to open-source projects to learn and experience new technologies. | - |
+| [Iago](https://github.com/IagoMota) | Core-Developer | ![Iago](https://avatars.githubusercontent.com/u/64096782?s=125) | I'm a software engineer who is in love with all aspects of technology, specially low level coding :D | - |
+| [Jay](https://github.com/jauntyjocularjay) | Quality-Assurance | ![Jay](https://avatars.githubusercontent.com/u/77408854?s=125) | American hobbyist developer working in Quality Assurance since 2020. Always looking for problems to tackle and new skills to acquire. | ![Gitroll Profile Badge](https://gitroll.io/api/badges/profiles/v1/sDRGmvePSAQlwWGyLnWGh) |
+| [Marika](https://github.com/marikadeveloper) | Reviewer | ![Marika](https://avatars.githubusercontent.com/u/116084393?s=125) | Italian frontend developer with 5+ years of work experience and a passion for coding since 2014. Currently pursuing a Computer Science Bachelor's while contributing to open source and exploring singing in free time. | ![Gitroll Profile Badge](https://gitroll.io/api/badges/profiles/v1/spxCxeR7ZfMK6Izv2y6Uc) |
 
 ### Reviewers
 
