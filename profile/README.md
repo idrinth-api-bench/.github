@@ -39,95 +39,75 @@ the backbone of this organisation.
 
 ## Project parts
 
-### [Framework](https://github.com/idrinth-api-bench/framework)
+- [Framework](https://github.com/idrinth-api-bench/framework) The framework is
+the core of the project. It is built without a framework in Typescript and runs
+on Node.js.
 
-The framework is the core of the project. It is built without a framework
-in Typescript and runs on Node.js.
+- [CLI](https://github.com/idrinth-api-bench/cli) This command line tool is
+free of frameworks and runs on Node.js. It serves as a tool to generate code
+for use with the framework.
 
-### [CLI](https://github.com/idrinth-api-bench/cli)
-
-This command line tool is free of frameworks and runs on Node.js. It
-serves as a tool to generate code for use with the framework.
-
-### [Desktop](https://github.com/idrinth-api-bench/desktop)
-
+- [Desktop](https://github.com/idrinth-api-bench/desktop)
 This vue and electron tool wraps the framework to provide a nicer,
 easier to use UI for framework execution.
 
-### [Documentation Website](https://github.com/idrinth-api-bench/documentation-website)
-
+- [Documentation Website](https://github.com/idrinth-api-bench/documentation-website)
 The documentation website is a React application written in Typescript.
 It serves as the central web presence and documentation for all
 involved projects.
 
-### [Examples](https://github.com/idrinth-api-bench/examples)
-
+- [Examples](https://github.com/idrinth-api-bench/examples)
 These are examples based on @idrinth/api-bench (the framework). Try
 them out to see how it works and what the framework provides.
 
-### [History Microservice](https://github.com/idrinth-api-bench/history-microservice)
-
+- [History Microservice](https://github.com/idrinth-api-bench/history-microservice)
 The history microservice is a Fastify application, that serves as
 the central point of access to historical benchmark run data.
 
-### [History Website](https://github.com/idrinth-api-bench/history-website)
-
+- [History Website](https://github.com/idrinth-api-bench/history-website)
 The history website is a svelte application, that serves as
 the central point of access to historical benchmark run data.
 
-### [Containers](https://github.com/idrinth-api-bench/containers)
-
+- [Containers](https://github.com/idrinth-api-bench/containers)
 These are the docker containers for ci and history visualisation.
 
-### [Mindmap](https://github.com/idrinth-api-bench/mindmap)
-
+- [Mindmap](https://github.com/idrinth-api-bench/mindmap)
 The brainstorming solution we use. It is based around markmap, a markdown to
 mindmap generator but consists of a lot of custom logic.
 
-### [Rollup Plugin React Modular CSS](https://github.com/idrinth-api-bench/rollup-plugin-react-modular-css)
-
+- [Rollup Plugin React Modular CSS](https://github.com/idrinth-api-bench/rollup-plugin-react-modular-css)
 This plugin extracts modular css files instead of creating a big one.
 
-### [Chartjs Plugin Stdev Filler](https://github.com/idrinth-api-bench/chartjs-plugin-stdev-filler)
-
+- [Chartjs Plugin Stdev Filler](https://github.com/idrinth-api-bench/chartjs-plugin-stdev-filler)
 A small plugin to provide sensible standard deviation displays.
 
-### [Website Builder](https://github.com/idrinth-api-bench/website-builder)
-
+- [Website Builder](https://github.com/idrinth-api-bench/website-builder)
 This repository is our website deploy and update tool to minimize github api queries.
 
-### [Issues](https://github.com/idrinth-api-bench/issues)
-
+- [Issues](https://github.com/idrinth-api-bench/issues)
 This is the issue repository for a typescript framework meant to performance test anything even
 remotely rest-like and related tools.
 
-### [Eslint Config](https://github.com/idrinth-api-bench/eslint-config)
-
+- [Eslint Config](https://github.com/idrinth-api-bench/eslint-config)
 The organisation's code standards.  
 
-### [Typescript Language from Yaml](https://github.com/idrinth-api-bench/typescript-language-from-yaml)
-
+- [Typescript Language from Yaml](https://github.com/idrinth-api-bench/typescript-language-from-yaml)
 A typescript solution for translations.
 
-### [Assets](https://github.com/idrinth-api-bench/assets)
-
+- [Assets](https://github.com/idrinth-api-bench/assets)
 These are shared assets between multiple repositories.
 
-### [Project Defaults](https://github.com/idrinth-api-bench/project-defaults)
-
+- [Project Defaults](https://github.com/idrinth-api-bench/project-defaults)
 These are the defaults of our projects, so make sure to use this for creating new repositories
 or updating existing ones.
 
-### [Survey](https://github.com/idrinth-api-bench/survey)
-
+- [Survey](https://github.com/idrinth-api-bench/survey)
 A survey builder that focusses on being the least annoying to the surveyed as possible.
 
-### [Duplicate Style Check](https://github.com/idrinth-api-bench/duplicate-style-check)
-
+- [Duplicate Style Check](https://github.com/idrinth-api-bench/duplicate-style-check)
 This small library checks media queries for duplicate style definitions.
 
-### [React File Based Routes](https://github.com/idrinth-api-bench/react-file-based-routes)
-
+- [React File Based Routes](https://github.com/idrinth-api-bench/react-file-based-routes)
 File based routing with default react routers.
 
 ## Documentation
